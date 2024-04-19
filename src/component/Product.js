@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Import Link from react-router-dom
+
 import '../App.css'; // Import the CSS file
 
 const Product = ({ id, name, description, price, addToCart }) => {
